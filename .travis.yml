@@ -5,4 +5,4 @@ python:
 
 script:
  - python -m unittest test_tennis.py
- - python -m unittest test_random.py
+
